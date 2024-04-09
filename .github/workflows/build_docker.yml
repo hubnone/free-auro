@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 env:
-  GHCR_REPO: ghcr.io/hubnone/chatapi
+  GHCR_REPO: ghcr.io/hubnone/free-auro
 
 jobs:
   main:
